@@ -3,11 +3,6 @@
 #02
 print（"apples"）；
 main
-
-# sphere
-
 TestB-cube
-# MMM
-
 #BBBBB
-# ours
+#  TBTBTB
