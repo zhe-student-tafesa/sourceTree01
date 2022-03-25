@@ -2,3 +2,4 @@
 #张哲
 #02
 print（"apples"）；
+main
